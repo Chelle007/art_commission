@@ -1,4 +1,4 @@
-# art_commission_ICP
+# art-commission-smart-contract
 
 ## Overview
 
